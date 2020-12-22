@@ -1,4 +1,7 @@
-A simple command-line application.
+Simple dart app consists of 3 files :
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+1- queue file contains Queue class which implements basic operations done on queue[enqueue(),dequeue(),peek(),queueLength(),isEmpty(),isertFrontQueue(),printQueue()].
+
+2- stack file contains Stack class which implements basic operations done on stack[push(),pop(),peek(),stackLength(),isEmpty(),printStack()]
+
+3- main file contains tests on operations of these two data structures.
